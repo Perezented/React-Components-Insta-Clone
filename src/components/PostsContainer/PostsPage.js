@@ -10,7 +10,7 @@ const PostsPage = () => {
     // console.log(dummyData);
 
     const [data] = useState(dummyData);
-    console.log(data);
+    // console.log(data);
     // set up state for your data
     return (
         <div className="posts-container-wrapper">
